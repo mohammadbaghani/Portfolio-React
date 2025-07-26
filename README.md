@@ -9,4 +9,4 @@ My potfolio by React js and tailwind
 Demo Link : https://myportfolio.liara.run
 <br>
 </br>
-![alt text](https://github.com/mohammadbaghani/CRM-React/blob/master/Screenshot_2025_01_08-11.png)
+![alt text](https://github.com/mohammadbaghani/Portfolio-React/blob/master/Project%20Image.png)
